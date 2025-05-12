@@ -10,7 +10,12 @@ The app that this project builds is a demo of one which would work as user manag
 
 ## Screenshots
 
-![Drawer](img/WeatherAppScreenshot.png)
+![Drawer](img/DrawerScreenshot.png)
+![Groups screen](img/GroupsScreenshot.png)
+![Menu of a group](img/GroupMenuScreenshot.png)
+![Actions allowed to a group](img/GroupActionsScreenshot.png)
+![Users of a group](img/UsersScreenshot.png)
+![Schedule of a certain group users](img/GroupScheduleScreenshot.png)
 
 ## Languages used
 
